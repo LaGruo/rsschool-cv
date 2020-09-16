@@ -19,3 +19,7 @@ Belarus)
 2012 - 2015 *Wrocław University of Technology (Wrocław, Poland)*. Specialization: Computer Science. Degree: Bachelor  
 2005 - 2010 *Yanka Kupala State University of Grodno (Grodno, Belarus)*. Specialization: Economics and company management  
 2002 - 2006 *Technological College of the Yanka Kupala State University of Grodno (Grodno, Belarus)*. Specialization: Economy and manufacturing process management
+### Languages ###
+* Polish C1
+* English B2
+* German B1
