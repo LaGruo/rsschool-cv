@@ -7,7 +7,6 @@ E-mail: sviatlana.zhuravitskaya@gmail.com
 * HTML5  
 * CSS3  
 * JavaScript  
-<!-- -->
 ### Experience ###  
 2016 - 2018 *Software engineer*, Capgemini Software Solutions Center (Wroclaw, Poland)  
 2010 - 2015 *Administrator*, Belabios IOOO (Grodno, Belarus)  
@@ -21,6 +20,4 @@ Belarus)
 2005 - 2010 *Yanka Kupala State University of Grodno (Grodno, Belarus)*. Specialization: Economics and company management  
 2002 - 2006 *Technological College of the Yanka Kupala State University of Grodno (Grodno, Belarus)*. Specialization: Economy and manufacturing process management
 ### Languages ###  
-* Polish C1
-* English B2
-* German B1
+Polish C1, English B2, German B1
