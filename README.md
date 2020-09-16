@@ -1,1 +1,1 @@
-# rsschool-cv
+https://LaGruo.github.io/rsschool-cv/cv
