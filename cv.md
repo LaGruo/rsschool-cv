@@ -3,6 +3,10 @@
 ### Contact information ###
 Mobile phone:+37529 7866482  
 E-mail: sviatlana.zhuravitskaya@gmail.com
+### Skills ###
+* HTML5
+* CSS3
+* JavaScript
 ### Experience ###
 2016 - 2018 *Software engineer*, Capgemini Software Solutions Center (Wroclaw, Poland)  
 2010 - 2015 *Administrator*, Belabios IOOO (Grodno, Belarus)  
